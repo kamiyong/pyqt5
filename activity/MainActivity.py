@@ -244,7 +244,7 @@ class MainWindow(QWidget):
         rightBox.setLayout(rightInnerBox)
 
         # 横幅
-        banner = QLabel("Foxconn iDSBG B次 IT CD AI 歡迎您 !")
+        banner = QLabel("Kamiyong Welcome You!")
         banner.setObjectName("banner")
         banner.setMaximumSize(rightBoxWidth - 20, bannerHeight)
         banner.setMinimumSize(rightBoxWidth - 20, bannerHeight)
@@ -256,6 +256,7 @@ class MainWindow(QWidget):
         rightInnerBox.addWidget(image)
 
         # 摄像头图标, 在这里添加到窗口中
+        # 这样改控件就在所有的图层最上面，就不会被其他控件遮挡而导致事件失效的问题
         self.cameraIcon.setParent(self)
         self.cameraIcon.setCallback(self.clickedEvent)
         self.cameraIcon.setObjectName("cameraIcon")
