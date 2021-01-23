@@ -1,0 +1,4 @@
+# Anaconda activate script
+conda_path=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+# lib name
+lib_name=FAN

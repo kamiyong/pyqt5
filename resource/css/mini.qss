@@ -1,0 +1,94 @@
+
+/*the background color of window*/
+#window {
+    background-color: #0C172D;
+}
+
+#adjust {
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+#adjust:hover {
+    background-color: #9c9c9c;
+}
+
+/*the component of hidden window*/
+#dis:hover {
+    background-color: #9c9c9c;
+}
+#dis {
+    background-image: url('resource/image/dis.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-color: #0C172D;
+}
+
+/*the component of max window*/
+#maxi {
+    background-image: url('resource/image/max.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-color: #0C172D;
+}
+#maxi:hover {
+    background-color: #9c9c9c;
+}
+
+/*the component of close window*/
+#close {
+    background-image: url('resource/image/close.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-color: #0C172D;
+}
+#close:hover {
+    background-color: #FF0000;
+}
+
+/*Camera Icon*/
+#cameraIcon {
+    background-image: url('resource/image/icon-camera-normal.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #0C172D;
+}
+
+#cameraIcon:hover {
+    background-image: url('resource/image/icon-camera-hover.png');
+    background-color: #0C172D;
+}
+
+
+/*the line under the title bar.*/
+#line {
+    background-color: #FFFFFF;
+}
+
+
+/*the left area part of bottom.*/
+#leftBox {
+
+}
+
+#barcode {
+    font-size: 16px;
+    color: #000000;
+}
+
+/*display area*/
+#displayBox {
+    border: 2px solid rgba(81, 190, 247, 0.5);
+    text-align: top;
+    color: #2EFEF7;
+    font-size: 18px;
+    font-family: "Microsoft YaHei";
+}
+
+/*the area of show result*/
+#resultBox {
+    border: 2px solid rgba(81, 190, 247, 0.5);
+    font-size: 70px;
+    color: #00FF00;
+    font-family: "Microsoft YaHei";
+}

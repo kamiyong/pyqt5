@@ -1,0 +1,45 @@
+
+#head {
+    background-color: #0C172D;
+}
+
+#title {
+    color: #FF0000;
+    font-size: 18px;
+}
+
+/*the component of hidden window*/
+#dis:hover {
+    background-color: #9c9c9c;
+}
+#dis {
+    background-image: url('resource/image/dis.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-color: #0C172D;
+}
+
+
+/*the component of close window*/
+#close {
+    background-image: url('resource/image/close.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-color: #0C172D;
+}
+#close:hover {
+    background-color: #FF0000;
+}
+
+/*Camera Icon*/
+#cameraIcon {
+    background-image: url('resource/image/icon-camera-normal.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #0C172D;
+}
+
+#cameraIcon:hover {
+    background-image: url('resource/image/icon-camera-hover.png');
+    background-color: #0C172D;
+}

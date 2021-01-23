@@ -1,0 +1,217 @@
+2021-01-21 10:33:22,606 - INFO - cd \k D:\DevelopmentSoftware\Anaconda3\Scripts\activate FAN&python main.py
+2021-01-21 10:33:32,901 - INFO - 1
+2021-01-21 10:34:08,581 - INFO - condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 10:34:10,583 - INFO - cd \k D:\DevelopmentSoftware\Anaconda3\Scripts\activate  FAN&python main.py
+2021-01-21 10:34:20,732 - INFO - 1
+2021-01-21 10:35:03,446 - INFO - condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 10:35:05,448 - INFO - cd \k D:\DevelopmentSoftware\Anaconda3\Scripts\activate  FAN&python main.py
+2021-01-21 10:35:23,430 - INFO - 0
+2021-01-21 10:38:19,751 - INFO - condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 10:38:21,752 - INFO - D:\DevelopmentSoftware\Anaconda3\Scripts&activate FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 10:38:31,855 - INFO - 1
+2021-01-21 10:39:25,215 - INFO - condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 10:39:27,217 - INFO - D:\DevelopmentSoftware\Anaconda3\Scripts\activate FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 10:39:45,510 - INFO - 0
+2021-01-21 10:40:44,304 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 10:40:45,304 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 10:40:55,914 - INFO - 
+2021-01-21 10:40:55,914 - INFO - ************************
+2021-01-21 10:40:55,914 - INFO - 開始...
+2021-01-21 10:40:55,914 - INFO - 獲取到條碼：DKJDKLJDLKJDL
+2021-01-21 10:40:56,279 - INFO - 開始獲取圖片！
+2021-01-21 10:40:56,362 - INFO - 獲取圖片成功！
+2021-01-21 10:40:56,362 - INFO - 開始查詢機台信息！
+2021-01-21 10:40:56,363 - INFO - 查詢機台返回信息：0 SFC_OK ROUTE_CHECK=OK,CATEGORY_KEY=N140S
+2021-01-21 10:40:56,363 - INFO - 查詢機台信息成功！
+2021-01-21 10:40:56,363 - INFO - 開始識別！
+2021-01-21 10:40:56,773 - INFO - 識別完成！ 耗時：408ms
+2021-01-21 10:40:56,773 - INFO - ['142', 1, 1]
+2021-01-21 10:40:56,773 - INFO - 判定結果：NG
+2021-01-21 10:40:56,774 - INFO - 上傳異常：上傳已關閉
+2021-01-21 10:40:56,790 - INFO - 結束！
+2021-01-21 10:41:07,671 - INFO - 0
+2021-01-21 10:41:31,038 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 10:41:32,040 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 10:43:17,247 - INFO - 0
+2021-01-21 10:43:41,570 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 10:43:42,571 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 10:43:49,594 - INFO - -1073741510
+2021-01-21 10:44:41,618 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 10:44:42,619 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 10:44:51,040 - INFO - -1073741510
+2021-01-21 10:45:44,143 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 10:45:45,143 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 10:45:58,469 - INFO - 0
+2021-01-21 10:48:52,881 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 10:48:52,881 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 10:49:03,425 - INFO - -1073741510
+2021-01-21 10:50:50,820 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 10:50:50,820 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 10:50:58,616 - INFO - 0
+2021-01-21 10:56:04,566 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 10:56:04,566 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 10:56:11,691 - INFO - -1073741510
+2021-01-21 10:59:58,940 - INFO - [Errno 2] No such file or directory: '\\resource\\config\\AppConfig.txt'
+2021-01-21 11:04:36,676 - INFO - [Errno 2] No such file or directory: '\\resource\\config\\AppConfig.txt'
+2021-01-21 11:04:42,900 - INFO - [Errno 2] No such file or directory: '\\resource\\config\\AppConfig.txt'
+2021-01-21 11:05:06,297 - INFO - [Errno 2] No such file or directory: '\\resource\\config\\AppConfig.txt'
+2021-01-21 11:27:13,020 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 11:27:13,055 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 11:32:15,223 - INFO - 0
+2021-01-21 11:48:30,387 - INFO - 
+2021-01-21 11:48:30,387 - INFO - ************************
+2021-01-21 11:48:30,387 - INFO - 開始...
+2021-01-21 11:48:30,387 - INFO - 獲取到條碼：DHJKDHKJDHKJ
+2021-01-21 11:48:31,341 - INFO - 開始獲取圖片！
+2021-01-21 11:48:31,427 - INFO - 獲取圖片成功！
+2021-01-21 11:48:31,427 - INFO - 開始查詢機台信息！
+2021-01-21 11:48:31,427 - INFO - 查詢機台返回信息：0 SFC_OK ROUTE_CHECK=OK,CATEGORY_KEY=N140S
+2021-01-21 11:48:31,428 - INFO - 查詢機台信息成功！
+2021-01-21 11:48:31,428 - INFO - 開始識別！
+2021-01-21 11:48:31,843 - INFO - 識別完成！ 耗時：415ms
+2021-01-21 11:48:31,843 - INFO - ['142', 1, 1]
+2021-01-21 11:48:31,843 - INFO - 判定結果：NG
+2021-01-21 11:48:31,844 - INFO - 上傳異常：上傳已關閉
+2021-01-21 11:48:31,858 - INFO - 結束！
+2021-01-21 11:51:10,955 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 11:51:10,955 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 11:51:18,653 - INFO - -1073741510
+2021-01-21 11:51:41,279 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 11:51:41,279 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 11:51:48,447 - INFO - -1073741510
+2021-01-21 13:50:23,958 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 13:50:23,958 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 13:50:34,805 - INFO - 0
+2021-01-21 13:53:40,773 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 13:53:40,773 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 13:53:47,891 - INFO - -1073741510
+2021-01-21 14:15:24,368 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 14:15:24,369 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 14:17:04,133 - INFO - -1073741510
+2021-01-21 14:30:42,842 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 14:30:42,843 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 14:30:47,386 - INFO - -1073741510
+2021-01-21 14:32:19,724 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 14:32:19,724 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 14:33:17,279 - INFO - 0
+2021-01-21 14:33:31,710 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 14:33:31,710 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.py
+2021-01-21 14:33:39,939 - INFO - 0
+2021-01-21 14:50:00,191 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 14:50:00,192 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.pyw
+2021-01-21 14:50:15,912 - INFO - -1073741510
+2021-01-21 14:51:27,744 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 14:51:27,745 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.exe
+2021-01-21 14:51:28,798 - INFO - -1073741510
+2021-01-21 14:51:31,523 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 14:51:31,523 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.exe
+2021-01-21 14:52:54,206 - INFO - -1073741510
+2021-01-21 14:58:25,726 - INFO - Config: condaPath=D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+, libName=FAN
+2021-01-21 14:58:25,726 - INFO - cmd: D:\DevelopmentSoftware\Anaconda3\Scripts\activate
+FAN&python D:\WorkSpace\ProjectSpace\PycharmSpace\ProjectSpace\AI\main.pyw
+2021-01-21 14:59:23,510 - INFO - -1073741510
+2021-01-21 15:42:13,411 - INFO - 
+2021-01-21 15:42:13,411 - INFO - ************************
+2021-01-21 15:42:13,411 - INFO - 開始...
+2021-01-21 15:42:13,411 - INFO - 獲取到條碼：DKDLJKLDJLk
+2021-01-21 15:42:14,069 - INFO - 開始獲取圖片！
+2021-01-21 15:42:14,180 - INFO - 獲取圖片成功！
+2021-01-21 15:42:14,180 - INFO - 開始查詢機台信息！
+2021-01-21 15:42:14,180 - INFO - 查詢機台返回信息：0 SFC_OK ROUTE_CHECK=OK,CATEGORY_KEY=N140S
+2021-01-21 15:42:14,181 - INFO - 查詢機台信息成功！
+2021-01-21 15:42:14,181 - INFO - 開始識別！
+2021-01-21 15:42:14,613 - INFO - 識別完成！ 耗時：431ms
+2021-01-21 15:42:14,613 - INFO - ['142', 1, 1]
+2021-01-21 15:42:14,614 - INFO - 判定結果：NG
+2021-01-21 15:42:14,614 - INFO - 上傳異常：上傳已關閉
+2021-01-21 15:42:14,627 - INFO - 結束！
+2021-01-21 16:52:35,884 - INFO - 
+2021-01-21 16:52:35,885 - INFO - ************************
+2021-01-21 16:52:35,885 - INFO - 開始...
+2021-01-21 16:52:35,885 - INFO - 獲取到條碼：DKJDKJLKDJLKD
+2021-01-21 16:52:35,932 - INFO - 開始獲取圖片！
+2021-01-21 16:52:36,027 - INFO - 獲取圖片成功！
+2021-01-21 16:52:36,028 - INFO - 開始查詢機台信息！
+2021-01-21 16:52:36,028 - INFO - 查詢機台返回信息：0 SFC_OK ROUTE_CHECK=OK,CATEGORY_KEY=N140S
+2021-01-21 16:52:36,028 - INFO - 查詢機台信息成功！
+2021-01-21 16:52:36,028 - INFO - 開始識別！
+2021-01-21 16:52:36,448 - INFO - 識別完成！ 耗時：419ms
+2021-01-21 16:52:36,448 - INFO - ['142', 1, 1]
+2021-01-21 16:52:36,448 - INFO - 判定結果：NG
+2021-01-21 16:52:36,449 - INFO - 上傳異常：上傳已關閉
+2021-01-21 16:52:36,466 - INFO - 結束！
+2021-01-22 14:03:08,402 - INFO - 
+2021-01-22 14:03:08,402 - INFO - ************************
+2021-01-22 14:03:08,402 - INFO - 開始...
+2021-01-22 14:03:08,402 - INFO - 獲取到條碼：DJKLDJLKDJLK
+2021-01-22 14:03:09,024 - INFO - 開始獲取圖片！
+2021-01-22 14:03:09,093 - INFO - 獲取圖片成功！
+2021-01-22 14:03:09,093 - INFO - 開始查詢機台信息！
+2021-01-22 14:03:09,093 - INFO - 查詢機台返回信息：0 SFC_OK ROUTE_CHECK=OK,CATEGORY_KEY=N140S
+2021-01-22 14:03:09,094 - INFO - 查詢機台信息成功！
+2021-01-22 14:03:09,094 - INFO - 開始識別！
+2021-01-22 14:03:09,469 - INFO - 識別完成！ 耗時：375ms
+2021-01-22 14:03:09,469 - INFO - ['142', 1, 1]
+2021-01-22 14:03:09,470 - INFO - 判定結果：NG
+2021-01-22 14:03:09,470 - INFO - 上傳異常：上傳已關閉
+2021-01-22 14:03:09,484 - INFO - 結束！
+2021-01-22 15:44:41,973 - INFO - 
+2021-01-22 15:44:41,973 - INFO - ************************
+2021-01-22 15:44:41,973 - INFO - 開始...
+2021-01-22 15:44:41,973 - INFO - 獲取到條碼：DJKLDJLKD
+2021-01-22 15:44:42,149 - INFO - 開始獲取圖片！
+2021-01-22 15:44:42,314 - INFO - 獲取圖片成功！
+2021-01-22 15:44:42,314 - INFO - 開始查詢機台信息！
+2021-01-22 15:44:42,314 - INFO - 查詢機台返回信息：0 SFC_OK ROUTE_CHECK=OK,CATEGORY_KEY=N140S
+2021-01-22 15:44:42,315 - INFO - 查詢機台信息成功！
+2021-01-22 15:44:42,315 - INFO - 開始識別！
+2021-01-22 15:44:42,824 - INFO - 識別完成！ 耗時：508ms
+2021-01-22 15:44:42,824 - INFO - ['142', 1, 1]
+2021-01-22 15:44:42,824 - INFO - 判定結果：NG
+2021-01-22 15:44:42,825 - INFO - 上傳異常：上傳已關閉
+2021-01-22 15:44:42,842 - INFO - 結束！

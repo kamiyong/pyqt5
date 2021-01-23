@@ -1,0 +1,2 @@
+id=0,name=R1,left=10,top=10,right=100,bottom=100,create_time=2020-12-26 15:07:32
+id=0,name=R2,left=120,top=100,right=1180,bottom=820,create_time=2020-12-26 15:07:32
