@@ -82,9 +82,6 @@ class MainWindow(QWidget):
         self.__resultBox = QLabel()
         # 显示最终结果控件
         self.__displayBox = TextView()
-        # 摄像头开启控件, 在这里只新建对象，不要将其添加到窗口中
-        # 因为图层遮挡，到后面得不到鼠标事件
-        self.cameraIcon = ImageView()
 
         # 当前窗口关闭回调事件
         self.closeWindowCallback = None
